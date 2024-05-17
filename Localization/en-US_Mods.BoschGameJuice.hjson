@@ -1,0 +1,30 @@
+Configs: {
+	ServerConfig: {
+		DisplayName: Server Config
+
+		holdStyle: {
+			Label: hold Style
+			Tooltip: ""
+		}
+
+		itemOffsetX: {
+			Label: item Offset X
+			Tooltip: ""
+		}
+
+		itemOffsetY: {
+			Label: item Offset Y
+			Tooltip: ""
+		}
+
+		recoilSpeed: {
+			Label: recoil Speed
+			Tooltip: ""
+		}
+
+		recoilAmplitude: {
+			Label: recoil Amplitude
+			Tooltip: ""
+		}
+	}
+}

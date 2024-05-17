@@ -1,0 +1,3 @@
+displayName = Bosch's Game Juice
+author = BoschingMachine
+version = 0.1
